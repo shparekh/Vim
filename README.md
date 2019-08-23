@@ -1,4 +1,4 @@
-# vimfiles
-vimfiles for all the commonly used vim plugin
+# Vim
+File to overwrite the existing vim install.
 
-import this folder in place of ./Vim/vimfiles
+This installs pathogen and systemverilog related plugins.
